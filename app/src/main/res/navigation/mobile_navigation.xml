@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.rakhafatih.figureku.ui.FigureFragment"
+        android:label="@string/title_figure"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_dashboard"
+        android:name="com.rakhafatih.figureku.ui.KaosFragment"
+        android:label="@string/title_kaos"
+        tools:layout="@layout/fragment_dashboard" />
+
+    <fragment
+        android:id="@+id/navigation_notifications"
+        android:name="com.rakhafatih.figureku.ui.HoodieFragment"
+        android:label="@string/title_hoodie"
+        tools:layout="@layout/fragment_notifications" />
+    <fragment
+        android:id="@+id/navigation_poster"
+        android:name="com.rakhafatih.figureku.ui.PosterFragment"
+        android:label="@string/title_poster"
+        tools:layout="@layout/fragment_poster" />
+
+<!--    <fragment-->
+<!--        android:id="@+id/detailActivity"-->
+<!--        android:name="com.rakhafatih.figureku.DetailActivity"-->
+<!--        android:label="DetailActivity" />-->
+</navigation>

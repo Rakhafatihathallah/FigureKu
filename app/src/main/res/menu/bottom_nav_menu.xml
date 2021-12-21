@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/action_figure"
+        android:title="@string/title_figure" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/kaos"
+        android:title="@string/title_kaos" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/hoodie"
+        android:title="@string/title_hoodie" />
+    <item
+        android:id="@+id/navigation_poster"
+        android:icon="@drawable/poster"
+        android:title="@string/title_poster" />
+
+</menu>

@@ -1,0 +1,58 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">FigureKu</string>
+    <string name="txt_figure">Figure</string>
+    <string name="txt_hoodie">Hoodie</string>
+    <string name="txt_kaos">Kaos</string>
+    <string name="txt_poster">Poster</string>
+    <string name="content_image_for_banner">Todoroki</string>
+    <string name="txt_figure_exclusive">Exclusive Figure Todoroki</string>
+    <string name="txt_1_4">1.4 Jt</string>
+    <string name="txt_cooked">cooked</string>
+    <string name="image_for_recipe">Image For Recipe</string>
+    <string name="title_figure">Figure</string>
+    <string name="title_kaos">Kaos</string>
+    <string name="title_hoodie">Hoodie</string>
+    <string name="title_poster">Poster</string>
+
+    <string-array name="name_poster">
+        <item>Poster Hu Tao Genshin Impact</item>
+        <item>Poster Zhongli Genshin Impact</item>
+        <item>Poster Xiao Genshin Impact</item>
+        <item>Poster Ayaka Genshin Impact</item>
+
+    </string-array>
+
+    <string-array name="category_poster">
+        <item>Poster</item>
+        <item>Poster</item>
+        <item>Poster</item>
+        <item>Poster</item>
+        <item>Poster</item>
+    </string-array>
+
+    <string-array name="description_poster">
+        <item>Frozen shredded potatoes are a fast cook\'s friend: the excess liquid that usually needs to be squeezed out of fresh spuds is already gone, and they don\'t need to be thawed before cooking. The raw eggs may clump slightly when added to the frozen potatoes; this won\'t affect the finished cakes. Serve the potato cakes for brunch with a simple fruit salad, or for lunch or dinner with mixed greens. You could even make mini cakes for an impressive appetizer. Save the dark green parts of the green onions for sprinkling over top.</item>
+        <item>Root vegetables are a super popular side in the winter, usually roasted until fully tender. But shaving them raw into a side dish salad is a fantastic alternative. They\'re ready in just a few minutes, their earthy flavors stay vibrant, and a simple vinaigrette tenderizes them slightly while retaining a little crunch, balancing the velvety tuna. A mild olive oil that won\'t compete with the vegetables or the tuna works here. Rice vinegar is not as tangy as other varieties. If you prefer a little more bite, try white wine or apple cider vinegar.</item>
+        <item>You\'ll be surprised at the sophistication of this 5-ingredient dish, which is easy, elegant, and beautiful. You can honestly never go wrong when you start with salmon and a sour cream sauce, especially if that sauce is flavored with dill and horseradish. Fill out the plate and complete the meal with a side of steamed asparagus or haricots verts (slender French green beans), or barely wilted spinach or Swiss chard. If you have a mandoline in your kitchen, use it—carefully—on the potatoes to make the job of slicing go faster.</item>
+        <item></item>
+
+    </string-array>
+
+
+    <string-array name="photo_poster">
+        <item>https://i.ibb.co/BGRSHJt/poster-hutao.jpg</item>
+        <item>https://i.ibb.co/XYJwWPW/poster-xiao.webp</item>
+        <item>https://i.ibb.co/f94RLMJ/poster-zhongli.webp</item>
+        <item>https://i.ibb.co/kx1KnBx/poster-ayaka.jpg</item>
+    </string-array>
+
+    <string-array name="price_poster">
+        <item>55 K</item>
+        <item>80 K</item>
+        <item>65 K</item>
+        <item>60 K</item>
+        <item>60 K</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
